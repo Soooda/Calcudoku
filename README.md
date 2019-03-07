@@ -10,6 +10,7 @@
 カルクドク
 ------------------------------
 ![Calcudoku](https://img-blog.csdnimg.cn/20190205001837388.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1NvZGFhYWFh,size_16,color_FFFFFF,t_70)
+
 Bored of sudoku? Try calcudoku!
 
 The puzzle is simple. Upon a square n×n grid, each row and column must contain a permutation of the numbers from 1 to n. Consequently, each row or column must contain each of these ==exactly once==.
